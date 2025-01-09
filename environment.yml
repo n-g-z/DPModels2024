@@ -1,0 +1,18 @@
+name: dpmodels2024
+channels:
+- conda-forge
+- gurobi
+- defaults
+dependencies:
+- pip
+- ipykernel
+- numpy
+- matplotlib
+- pandas
+- scipy
+- scikit-learn
+- networkx
+- numba
+- gurobi
+- pygraphviz
+- python-tsp
